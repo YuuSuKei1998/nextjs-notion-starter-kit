@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sharks Home',
-  domain: 'https://yuusukei.notion.site/Shark-s-Home-e66e6fede30c4c81858b90c845da2495',
+  domain: 'yuusukei.notion.site/Shark-s-Home-e66e6fede30c4c81858b90c845da2495',
   author: 'Yuusukei',
 
   // open graph metadata (optional)
